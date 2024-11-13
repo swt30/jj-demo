@@ -1,2 +1,2 @@
-# jj-demo
+# JJ demo
 testing out jujutsu
